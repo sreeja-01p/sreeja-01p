@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m @sreeja-01p
-- 👀 I’m interested in Machine Learning, IoT, AR/VR and Blockchain
+- 👀 I’m interested in Machine Learning, IoT and Blockchain
 - 🤝 I’m looking to collaborate on Deep Learning projects
 - 📫 How to reach me - https://www.linkedin.com/in/sreejapottabathula/
 - ⚡ Fun fact: I love reading, writing poetry and painting!
